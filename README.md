@@ -26,6 +26,11 @@ git clone https://github.com/zitongbai/CartPoleMPC
 
 3. Open `acadosSim.slx` in Simulink and run the simulation.
 
+You need to change the view direction in Mechanics Explorer to see the cart-pole system.
+
+![view](./mdFiles/Mechanics%20Explorer%20View.png)
+![result](./mdFiles/result.png)
+
 # Some notes
 
 1. The parameters for the simscape model is stored in the **Model Workspace** inside the simulink. 
