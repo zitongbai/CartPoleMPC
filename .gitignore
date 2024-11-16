@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+build/
+c_generated_code/
+*.json
+*.slxc
